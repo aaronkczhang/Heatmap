@@ -18,3 +18,4 @@ java -jar target/realtime-heatmap-1.0.0-jar-with-dependencies.jar
 ```
 
 *  Sit back and watch the topology continually process messages based on the data in checkins.txt.
+test
